@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "air" # Do NOT modify
 ####################################################################################################
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Software Name" # change this for your software
+title                    : "USC Biglab" # change this for your software
 title_separator          : "-"
 name                     : "USC Biomedical Imaging Group" # do not change, this name is for copyright shown in the footer
-description              : "Descriptoin of the software" # only used in SEO, leave it blank if you are not familiar with SEO
+description              : "Research Software" # only used in SEO, leave it blank if you are not familiar with SEO
 url                      : # leave this blank as is
-baseurl                  : "/project-template" # change this to match your repository name
+baseurl                  : "/software" # change this to match your repository name
 words_per_minute         : # leave this blank as is
 
 # Analytics
