@@ -22,7 +22,7 @@ title_separator          : "-"
 name                     : "USC Biomedical Imaging Group" # do not change, this name is for copyright shown in the footer
 description              : "Research Software" # only used in SEO, leave it blank if you are not familiar with SEO
 url                      : # leave this blank as is
-baseurl                  : "/software" # change this to match your repository name
+baseurl                  : # change this to match your repository name
 words_per_minute         : # leave this blank as is
 
 # Analytics
