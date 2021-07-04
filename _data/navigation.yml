@@ -1,0 +1,17 @@
+lv1:
+  - title: "Introduction"
+    url: /introduction
+  - title: "Download"
+    url: /download
+  - title: "Tutorial"
+    url: /tutorial_toc
+
+lv2:
+  - title: "Home"
+    url: /introduction
+  - title: "Back to Tutorial List"
+    url: /tutorial_toc
+  - title: "T1"
+    url: /tutorial-1
+  - title: "T2"
+    url: /tutorial-2

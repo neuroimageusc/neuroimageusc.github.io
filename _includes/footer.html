@@ -1,0 +1,3 @@
+{% assign footer_author = page.author | default: site.author.name %}
+
+<div class="page__footer-copyright">Author: {{ footer_author }}. Copyright &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.&nbsp; Updated: {{ page.date | date: '%b %d, %Y' }}</div>
