@@ -23,7 +23,7 @@ IN NO EVENT SHALL THE AUTHORS, THE CONTRIBUTORS, THE DISTRIBUTORS AND THE UNIVER
 
 ## Download
 
-Please follow this [link](https://software.imagicastle.com:48877/download.php?app=gbs){:target="_blacnk"} (will open a new page) and fill out the form. An e-mail will be sent to you with a personal download link. 
+Please follow this [link](https://software.imagicastle.com:48877/download.php?app=untamed){:target="_blacnk"} (will open a new page) and fill out the form. An e-mail will be sent to you with a personal download link. 
 
 ## Support
 
