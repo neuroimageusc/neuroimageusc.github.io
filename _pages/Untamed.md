@@ -2,7 +2,7 @@
 title: "Untamed"
 permalink: /Untamed
 layout: single
-date: 2023-07-20
+date: 2023-12-04
 ---
 
 # **<center>Untamed: Cortical parcellation using overlapping spatial maps from tensor decomposition on resting-state fMRI with graph representation learning </center>**
